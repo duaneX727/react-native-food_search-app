@@ -19,12 +19,12 @@ const styles = StyleSheet.create({
       marginTop: 5,
       marginHorizontal: 25,
       backgroundColor: "white",
-      padding: 30,
+      padding: 15,
       borderRadius: 40,
     },
     elevation,
     input: {
       fontSize: 20,
-      marginLeft: 5,
+      marginLeft: 10,
     }
 });
